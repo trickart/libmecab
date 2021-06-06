@@ -1,0 +1,5 @@
+module libmecab {
+    umbrella header "mecab.h"
+    export *
+    link "mecab"
+}
